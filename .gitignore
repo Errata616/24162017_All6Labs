@@ -1,0 +1,23 @@
+# build output
+build/
+
+# executables
+*.exe
+
+# object files
+*.o
+*.obj
+*.pdb
+*.dll
+
+# key
+key_manage/
+
+# binaries
+*.bin
+
+# VS Code settings
+.vscode/
+
+# benchmark results (optional)
+benchmark_result/
