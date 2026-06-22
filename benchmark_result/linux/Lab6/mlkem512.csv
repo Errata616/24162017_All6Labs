@@ -1,0 +1,5 @@
+algorithm,operation,message_bytes,iterations,avg_ms,ops_per_sec
+ML-KEM-512,keygen,0,100,0.318279,3141.9
+ML-KEM-512,encaps,0,100,0.0381712,26197.8
+ML-KEM-512,decaps,0,100,0.0542838,18421.7
+# ciphertext_bytes=768, shared_secret_bytes=32

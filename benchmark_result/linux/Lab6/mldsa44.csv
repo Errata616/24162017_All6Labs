@@ -1,0 +1,5 @@
+algorithm,operation,message_bytes,iterations,avg_ms,ops_per_sec
+ML-DSA-44,keygen,1024,100,0.864657,1156.53
+ML-DSA-44,sign,1024,100,0.98984,1010.26
+ML-DSA-44,verify,1024,100,0.182346,5484.07
+# signature_bytes=2420

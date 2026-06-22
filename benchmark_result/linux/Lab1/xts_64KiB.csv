@@ -1,0 +1,2 @@
+mode,size_bytes,runs,iterations,mean_MBps,median_MBps,stddev,ci95
+xts,65536,30,100,444.529,451.327,14.030,5.021

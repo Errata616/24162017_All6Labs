@@ -1,0 +1,24 @@
+
+================= BENCHMARK SUITE: rsa-pss-3072 =================
+Key Generation Latency: 89.2186 ms
+
+VALID SIGNATURE
+Payload Size: 1 KiB
+  -> Sign Latency:   5.78158 ms (172.963 ops/sec)
+  -> Verify Latency: 0.75339 ms (1327.33 ops/sec)
+
+VALID SIGNATURE
+Payload Size: 16 KiB
+  -> Sign Latency:   4.72866 ms (211.477 ops/sec)
+  -> Verify Latency: 1.97386 ms (506.621 ops/sec)
+
+VALID SIGNATURE
+Payload Size: 1024 KiB
+  -> Sign Latency:   108.631 ms (9.20551 ops/sec)
+  -> Verify Latency: 104.345 ms (9.58358 ops/sec)
+
+VALID SIGNATURE
+Payload Size: 8192 KiB
+  -> Sign Latency:   775.365 ms (1.28971 ops/sec)
+  -> Verify Latency: 762.023 ms (1.3123 ops/sec)
+

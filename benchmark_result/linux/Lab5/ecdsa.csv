@@ -1,0 +1,24 @@
+
+================= BENCHMARK SUITE: ecdsa-p256 =================
+Key Generation Latency: 6.29278 ms
+
+VALID SIGNATURE
+Payload Size: 1 KiB
+  -> Sign Latency:   1.96124 ms (509.883 ops/sec)
+  -> Verify Latency: 0.795357 ms (1257.3 ops/sec)
+
+VALID SIGNATURE
+Payload Size: 16 KiB
+  -> Sign Latency:   2.87606 ms (347.698 ops/sec)
+  -> Verify Latency: 3.18048 ms (314.418 ops/sec)
+
+VALID SIGNATURE
+Payload Size: 1024 KiB
+  -> Sign Latency:   102.759 ms (9.73154 ops/sec)
+  -> Verify Latency: 99.7941 ms (10.0206 ops/sec)
+
+VALID SIGNATURE
+Payload Size: 8192 KiB
+  -> Sign Latency:   797.116 ms (1.25452 ops/sec)
+  -> Verify Latency: 743.183 ms (1.34556 ops/sec)
+

@@ -1,0 +1,5 @@
+algorithm,operation,message_bytes,iterations,avg_ms,ops_per_sec
+ML-DSA-65,keygen,1024,100,0.949623,1053.05
+ML-DSA-65,sign,1024,100,1.54417,647.595
+ML-DSA-65,verify,1024,100,0.296945,3367.62
+# signature_bytes=3309

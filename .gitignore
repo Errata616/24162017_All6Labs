@@ -21,9 +21,12 @@ key_manage/
 # VS Code settings
 <<<<<<< HEAD
 .vscode/
+<<<<<<< HEAD
 
 # benchmark results (optional)
 benchmark_result/
 =======
 .vscode/
 >>>>>>> d3a9b50 (Updated benchmark test)
+=======
+>>>>>>> 5c38608 (Updated benchmark results for Linux)
