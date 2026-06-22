@@ -19,7 +19,11 @@ key_manage/
 *.bin
 
 # VS Code settings
+<<<<<<< HEAD
 .vscode/
 
 # benchmark results (optional)
 benchmark_result/
+=======
+.vscode/
+>>>>>>> d3a9b50 (Updated benchmark test)
